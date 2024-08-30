@@ -16,4 +16,6 @@ Check out the live demo of the project [here](https://spotifybyrushal.freewebhos
 
 ![Home Page](screenshots/home.png)
 
-![Mobile View](screenshots/mobile.png)
+<div align="center">
+  <img src="screenshots/mobile.png" alt="Mobile View" />
+</div>
