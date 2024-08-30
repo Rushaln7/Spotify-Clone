@@ -15,4 +15,5 @@ Check out the live demo of the project [here](https://spotifybyrushal.freewebhos
 ## Screenshots
 
 ![Home Page](screenshots/home.png)
+
 ![Mobile View](screenshots/mobile.png)
